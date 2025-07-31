@@ -40,7 +40,7 @@ mathmind-agent/
 ├── requirements.txt          # Python dependencies
 ├── .env.example             # Environment configuration template
 ├── README.md                # Project documentation
-├── math-mind_agent/
+├── mathmind_core/
 │   ├── __init__.py
 │   ├── agent_executor.py    # Core agent logic and initialization
 │   ├── tools.py               # Mathematical computation tools
