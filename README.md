@@ -41,10 +41,8 @@ mathmind-agent/
 ├── .env.example             # Environment configuration template
 ├── README.md                # Project documentation
 ├── mathmind_core/
-│   ├── __init__.py
 │   ├── agent_executor.py    # Core agent logic and initialization
 │   ├── tools.py               # Mathematical computation tools
-│   │   
 │   ├── prompt.py              # LLM prompt templates
 ```
 
